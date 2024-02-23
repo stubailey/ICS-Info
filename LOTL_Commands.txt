@@ -1,0 +1,22 @@
+cmd
+certutil
+dnscmd
+ldifde
+makecab
+net user/group/use
+netsh
+nltest
+netstat
+ntdsutil
+ping
+PowerShell
+quser
+reg query/reg save
+systeminfo
+tasklist
+wevtutil
+whoami
+wmic
+xcopy
+
+
