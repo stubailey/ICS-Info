@@ -1,8 +1,10 @@
+at
 cmd
 certutil
 dnscmd
 ldifde
 makecab
+mshta.exe
 net user/group/use
 netsh
 nltest
