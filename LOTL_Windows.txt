@@ -1,11 +1,16 @@
+arp
 at
 cmd
 certutil
 dnscmd
 ldifde
+getmac
+hostname
 makecab
 mshta.exe
-net user/group/use
+net user
+net group 
+net use
 netsh
 nltest
 netstat
@@ -13,12 +18,14 @@ ntdsutil
 ping
 PowerShell
 quser
-reg query/reg save
+reg query 
+reg save
 systeminfo
 tasklist
 wevtutil
 whoami
 wmic
+ver
 xcopy
 
 
