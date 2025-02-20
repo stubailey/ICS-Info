@@ -1,13 +1,16 @@
 arp
 at
+attrib
 cmd
 certutil
+curl
 dnscmd
+forfiles
 ldifde
 getmac
 hostname
 makecab
-mshta.exe
+mshta
 net user
 net group 
 net use
@@ -18,8 +21,11 @@ ntdsutil
 ping
 PowerShell
 quser
+reg
 reg query 
 reg save
+route print
+schtasks
 systeminfo
 tasklist
 wevtutil
