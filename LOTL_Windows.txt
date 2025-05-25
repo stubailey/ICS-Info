@@ -1,6 +1,8 @@
+ADexplorer
 arp
 at
 attrib
+cacls
 cmd
 certutil
 curl
@@ -8,9 +10,11 @@ dnscmd
 forfiles
 ldifde
 getmac
+icacls
 hostname
 makecab
 mshta
+net
 net user
 net group 
 net use
@@ -18,6 +22,7 @@ netsh
 nltest
 netstat
 ntdsutil
+OpenSSH
 ping
 PowerShell
 quser
@@ -32,6 +37,7 @@ wevtutil
 whoami
 wmic
 ver
+vssadmin
 xcopy
 
 
