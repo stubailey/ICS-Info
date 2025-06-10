@@ -1,1 +1,7 @@
 
+apt-get remove
+dpkg -list
+kill
+chkconfig -list
+sysv-rc-conf -list
+
